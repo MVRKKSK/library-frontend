@@ -1,0 +1,93 @@
+{
+    "books": [{
+            "id": 1,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Classics",
+            "year": 1925,
+            "description": "A classic novel exploring the decadence and moral decay of the American Dream in the 1920s.",
+            "image_url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80"
+        },
+        {
+            "id": 2,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Classics",
+            "year": 1960,
+            "description": "A novel depicting racial injustice in the American South during the 1930s.",
+            "image_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+            "id": 3,
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "year": 1949,
+            "description": "A dystopian novel about a totalitarian regime and the dangers of mass surveillance.",
+            "image_url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1874&q=80"
+        },
+        {
+            "id": 4,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "year": 1937,
+            "description": "A fantasy novel about a hobbit's adventure to reclaim treasure from a dragon.",
+            "image_url": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "id": 5,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Classics",
+            "year": 1813,
+            "description": "A romantic novel featuring the lively Elizabeth Bennet and the enigmatic Mr. Darcy.",
+            "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+        },
+        {
+            "id": 6,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Classics",
+            "year": 1951,
+            "description": "A novel about the experiences of a young man named Holden Caulfield in New York City.",
+            "image_url": "https://images.unsplash.com/photo-1453282716202-de94e528067c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+        },
+        {
+            "id": 7,
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Dystopian",
+            "year": 1932,
+            "description": "A dystopian novel set in a futuristic world where individuality is suppressed.",
+            "image_url": "https://images.unsplash.com/photo-1458419948946-19fb2cc296af?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+        },
+        {
+            "id": 8,
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "year": 1954,
+            "description": "A high-fantasy epic that follows the journey to destroy the One Ring.",
+            "image_url": "https://images.unsplash.com/photo-1555685816-2b943f1cb729?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+        },
+        {
+            "id": 9,
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "genre": "Classics",
+            "year": 1851,
+            "description": "A novel about Captain Ahab's obsessive quest to hunt down the white whale, Moby-Dick.",
+            "image_url": "https://images.unsplash.com/photo-1590169785562-736c703935ca?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+        },
+        {
+            "id": 10,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "genre": "Fantasy",
+            "year": 1997,
+            "description": "The first book in the Harry Potter series, which follows the young wizard's adventures at Hogwarts.",
+            "image_url": "https://images.unsplash.com/photo-1560294317-4b943f1cb729?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+        }
+    ]
+}
